@@ -26,7 +26,7 @@ here.
 ## What the mod does
 
 On by default. **Toggle: Settings → Player Setup → (your profile) →
-Video Setup → GRAPHICS → GORE** (saved, applies straight away).
+Video Setup → EXTRA EFFECTS → GORE** (saved, applies straight away).
 
 - Enemies killed by a close explosion or a fast vehicle hit come apart
   into six pieces (head, arms, legs, torso), with blood bursts, drips
