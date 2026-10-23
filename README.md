@@ -25,20 +25,42 @@ here.
 
 ## What the mod does
 
-On by default. **Toggle: Settings → Player Setup → (your profile) →
-Video Setup → EXTRA EFFECTS → GORE** (saved, applies straight away).
+On by default. All the settings are at **Settings → Player Setup →
+(your profile) → Video Setup → EXTRA EFFECTS** (saved, apply straight
+away):
+
+| Setting | Options |
+| --- | --- |
+| **GORE** | Off / Mild / Heavy (default) / Extreme |
+| **GORE DURATION** | Normal / Long / Very Long / Permanent: how long blood, pieces and bodies stay (multiplayer is capped at Long) |
+| **CORPSE BLEED** | On / Off: corpse blood pools and trails |
+| **MANUAL RESPAWN** | On / Off (campaign only): stay down when you die while the game keeps going, orbit the death camera to look around, and press to respawn when you're ready |
 
 - Enemies killed by a close explosion or a fast vehicle hit come apart
   into six pieces (head, arms, legs, torso), with blood bursts, drips
   and ground splats. Pieces land, bounce, rest, then fade.
 - Point-blank shotgun kills gib (within about 2 metres).
-- A killing sniper-rifle headshot takes the head only.
+- A killing sniper-rifle headshot pops the head, with blood spurting
+  from the neck. It also works when you join any server, because it is
+  a local effect only.
 - Hunters gib **only** to a direct Scorpion tank shell hit.
+- **Impact splats:** a body that slams into the ground or a wall at very
+  high speed (a huge fall, or flung by a blast) comes apart where it hits
+  and leaves a big splat of blood. The pieces stay around the splat.
+- **Corpse blood trails:** bodies at rest pool blood that runs downhill in
+  branching trails, in the character's blood colour (humans red, Grunts
+  and Jackals cyan-blue, Elites blue-purple, Hunters orange).
+- **Bloody footprints:** anyone who walks through blood leaves
+  species-shaped footprints in that blood's colour, fading out over the
+  next steps.
+- **Flood gore:** the Flood have gore too, with their own blood colour,
+  bursts and pools.
 - Works on enemies and on the player character.
 - **Multiplayer (co-op and online/system link):** gore is on there too.
   Every player gibs the same kills on their own screen — the pieces are
   local eye-candy per machine and are never networked, so gore and
   non-gore players can play in the same game and nothing can desync.
+  Online play requires all players on this version.
 
 ## PC install
 
