@@ -62,6 +62,21 @@ away):
   non-gore players can play in the same game and nothing can desync.
   Online play requires all players on this version.
 
+## Also from OpenCE
+
+Each build includes the latest OpenCE engine features, including:
+
+- New OpenCE gametypes: SWAT, Infection, Gun Game and Hardcore, in their
+  own **OPENCE** bank of Select Gametype, with an **OPENCE OPTIONS**
+  screen in the gametype editor.
+- The server browser shows each game's gametype name.
+- Shield effects are the host's choice in network games, or the host can
+  leave them to each player.
+- Co-op **ALLY FRIENDLY FIRE** option (Server Setup → Co-op Options):
+  turn it off and your AI allies are immune to the players' fire.
+- Co-op and Custom Edition improvements, and Android texture support for
+  more GPUs.
+
 ## PC install
 
 1. Unzip `HaloCE-Gore-PC-Windows.zip` anywhere.
