@@ -53,6 +53,10 @@ away):
 - **Bloody footprints:** anyone who walks through blood leaves
   species-shaped footprints in that blood's colour, fading out over the
   next steps.
+- **Bloody vehicle tracks:** a Warthog or other wheeled vehicle, or a
+  Scorpion, that runs over bodies or through blood leaves tracks in that
+  blood's colour — the Warthog's own tyre print, or the Scorpion's tread
+  plates — fading out over the distance it drives.
 - **Flood gore:** the Flood have gore too, with their own blood colour,
   bursts and pools.
 - Works on enemies and on the player character.
