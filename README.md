@@ -57,6 +57,9 @@ away):
   Scorpion, that runs over bodies or through blood leaves tracks in that
   blood's colour — the Warthog's own tyre print, or the Scorpion's tread
   plates — fading out over the distance it drives.
+- **Wound blood drips (campaign):** wounded characters drip blood in
+  their own blood colour, leaving a trail of small drops as they move.
+  On with the gore level at Heavy or Extreme.
 - **Flood gore:** the Flood have gore too, with their own blood colour,
   bursts and pools.
 - Works on enemies and on the player character.
@@ -73,7 +76,11 @@ Each build includes the latest OpenCE engine features, including:
 - New OpenCE gametypes: SWAT, Infection, Gun Game and Hardcore, in their
   own **OPENCE** bank of Select Gametype, with an **OPENCE OPTIONS**
   screen in the gametype editor.
-- The server browser shows each game's gametype name.
+- The server browser shows each game's gametype name, and opens on
+  **ALL GAMES**: dedicated servers first, then games players host.
+- Dedicated servers (PC): `halo.exe --server` runs a dedicated server
+  with a web admin page and remote console, listed on the official
+  master server.
 - Shield effects are the host's choice in network games, or the host can
   leave them to each player.
 - Co-op **ALLY FRIENDLY FIRE** option (Server Setup → Co-op Options):
