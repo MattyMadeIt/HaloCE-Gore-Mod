@@ -39,29 +39,37 @@ away):
 - Enemies killed by a close explosion or a fast vehicle hit come apart
   into six pieces (head, arms, legs, torso), with blood bursts, drips
   and ground splats. Pieces land, bounce, rest, then fade.
+  <br><img src="screenshots/extreme-gibs.jpg" width="480" alt="A Grunt gibbed at Extreme"><br>*A Grunt gibbed at Extreme*
 - Point-blank shotgun kills gib (within about 2 metres).
 - A killing sniper-rifle headshot pops the head, with blood spurting
   from the neck. It also works when you join any server, because it is
   a local effect only.
+  <br><img src="screenshots/sniper-headshot.jpg" width="480" alt="Sniper headshot head pop"><br>*Sniper headshot head pop*
 - Hunters gib **only** to a direct Scorpion tank shell hit.
 - **Impact splats:** a body that slams into the ground or a wall at very
   high speed (a huge fall, or flung by a blast) comes apart where it hits
   and leaves a big splat of blood. The pieces stay around the splat.
+  <br><img src="screenshots/impact-splat.jpg" width="480" alt="Impact splat"><br>*Impact splat*
 - **Corpse blood trails:** bodies at rest pool blood that runs downhill in
   branching trails, in the character's blood colour (humans red, Grunts
   and Jackals cyan-blue, Elites blue-purple, Hunters orange).
+  <br><img src="screenshots/corpse-blood-trail.jpg" width="480" alt="Corpse blood trail running downhill"><br>*Corpse blood trail running downhill*
 - **Bloody footprints:** anyone who walks through blood leaves
   species-shaped footprints in that blood's colour, fading out over the
   next steps.
+  <br><img src="screenshots/bloody-footprints.jpg" width="480" alt="Bloody footprints in each species' blood colour"><br>*Bloody footprints in each species' blood colour*
 - **Bloody vehicle tracks:** a Warthog or other wheeled vehicle, or a
   Scorpion, that runs over bodies or through blood leaves tracks in that
   blood's colour — the Warthog's own tyre print, or the Scorpion's tread
   plates — fading out over the distance it drives.
+  <br><img src="screenshots/warthog-tyre-tracks.jpg" width="320" alt="Warthog tyre tracks"> <img src="screenshots/scorpion-tread-tracks.jpg" width="320" alt="Scorpion tread tracks"><br>*Warthog tyre tracks and Scorpion tread tracks*
 - **Wound blood drips (campaign):** wounded characters drip blood in
   their own blood colour, leaving a trail of small drops as they move.
   On with the gore level at Heavy or Extreme.
+  <br><img src="screenshots/wound-drips.jpg" width="480" alt="Wound blood drips trailing behind wounded characters"><br>*Wound blood drips trailing behind wounded characters*
 - **Flood gore:** the Flood have gore too, with their own blood colour,
   bursts and pools.
+  <br><img src="screenshots/flood-gore.jpg" width="480" alt="Flood gore"><br>*Flood gore*
 - Works on enemies and on the player character.
 - **Multiplayer (co-op and online/system link):** gore is on there too.
   Every player gibs the same kills on their own screen — the pieces are
@@ -87,6 +95,9 @@ Each build includes the latest OpenCE engine features, including:
   turn it off and your AI allies are immune to the players' fire.
 - Co-op and Custom Edition improvements, and Android texture support for
   more GPUs.
+- PC shader cache: effects stop stuttering the first time they appear.
+- Smoother scope ticks, weapon lights and markers, and smoother movement
+  of vehicles no one is driving (Pelicans, lifepods).
 
 ## PC install
 
@@ -118,6 +129,8 @@ Video Setup → **STEREO 3D (SBS)**, with **EYE DISTANCE** to match your
 viewer (64 mm is average). Stereo turns itself off in local
 split-screen (it needs one fullscreen view); in online/co-op play
 everyone is fullscreen, so stereo and multiplayer gore work together.
+
+<img src="screenshots/sbs-3d-scope.jpg" width="640" alt="SBS 3D with the sniper scope at 10x"><br>*SBS 3D: the sniper scope at 10x in both eyes*
 
 ## Credits
 
