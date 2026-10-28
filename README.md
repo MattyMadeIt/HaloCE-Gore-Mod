@@ -130,6 +130,9 @@ viewer (64 mm is average). Stereo turns itself off in local
 split-screen (it needs one fullscreen view); in online/co-op play
 everyone is fullscreen, so stereo and multiplayer gore work together.
 
+For head-tracked aiming in a headset, turn on **GYRO AIMING** in the
+controller settings; without it, turning your head won't move your aim.
+
 <img src="screenshots/sbs-3d-scope.jpg" width="640" alt="SBS 3D with the sniper scope at 10x"><br>*SBS 3D: the sniper scope at 10x in both eyes*
 
 ## Credits
