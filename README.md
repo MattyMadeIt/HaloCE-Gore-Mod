@@ -46,9 +46,10 @@ away):
   a local effect only.
   <br><img src="screenshots/sniper-headshot.jpg" width="480" alt="Sniper headshot head pop"><br>*Sniper headshot head pop*
 - Hunters gib **only** to a direct Scorpion tank shell hit.
-- **Impact splats:** a body that slams into the ground or a wall at very
-  high speed (a huge fall, or flung by a blast) comes apart where it hits
-  and leaves a big splat of blood. The pieces stay around the splat.
+- **Impact splats:** a body that slams into the ground or a wall at high
+  speed (a big fall, or flung by a blast) comes apart where it hits and
+  leaves a big splat of blood. The pieces stay around the splat, and the
+  death camera stays where the body landed.
   <br><img src="screenshots/impact-splat.jpg" width="480" alt="Impact splat"><br>*Impact splat*
 - **Corpse blood trails:** bodies at rest pool blood that runs downhill in
   branching trails, in the character's blood colour (humans red, Grunts
@@ -77,6 +78,25 @@ away):
   non-gore players can play in the same game and nothing can desync.
   Online play requires all players on this version.
 
+## Campaign allies
+
+Up to 4 AI Marines can fight beside you in the campaign (solo, split
+screen, or as a co-op host). Pick how many from the pause menu's
+**ALLIES**; each level starts with none.
+
+- They follow you, keep their distance in a fight, and come back behind
+  you when killed or left behind.
+- **Orders:** hold Reload/Action on foot to send them where you aim; hold
+  it again to call them back. They answer with Marine voice lines, and
+  your controller rumbles.
+- Their names and health show on the HUD.
+- **Respawn on an ally:** die while an ally lives and you come back beside
+  them (with Manual Respawn on, the prompt shows when it's safe).
+- **Spectate:** while dead, D-pad left/right (or Y) watches each living
+  ally from behind, and cycles back to your body.
+- Co-op hosts: **ALLOW ALLIES** (Server Setup → Co-op Options) turns them
+  off for a game.
+
 ## Also from OpenCE
 
 Each build includes the latest OpenCE engine features, including:
@@ -93,6 +113,13 @@ Each build includes the latest OpenCE engine features, including:
   leave them to each player.
 - Co-op **ALLY FRIENDLY FIRE** option (Server Setup → Co-op Options):
   turn it off and your AI allies are immune to the players' fire.
+- In LAN/online co-op the host's **REVERT TO SAVED** takes everyone back
+  to the last checkpoint.
+- **Bots** in hosted games: Server Setup → **BOTS** sets how many
+  computer players join, their skill and their teams.
+- Map, end-game and kick votes, per-player controller remapping, a 4-way
+  split-screen Add Player screen, an Android resolution choice, and touch
+  controls that show on phones with nothing plugged in.
 - Co-op and Custom Edition improvements, and Android texture support for
   more GPUs.
 - PC shader cache: effects stop stuttering the first time they appear.
